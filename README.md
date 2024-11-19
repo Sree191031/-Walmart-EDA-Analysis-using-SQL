@@ -22,7 +22,10 @@ Analaysied propularity based on sales metric and categorised as Top 10 by age,,T
 **5. Reorder Purchase Analysis**
 Calculated reorder purchase rate per product ID, product category
 **5.Price Sensitivity Analysis**
-**5. Market Basket Analysis**
+**5. Average Purchase Analysis**
+**5. Customer Life Time Value**
+
+
 
 ![Demo Video](dashboard-demo.mp4)
 # Dataset Overview
