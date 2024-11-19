@@ -9,56 +9,38 @@ The business requirements aim to leverage data insights to optimize sales, inven
 **Business Strategy Insights**
 
 **1. Gender Based Analysis**
-Identify female and male contrubution to overall revune , products sold and user purchase count.
+Quantified male and female contributions to overall revenue, total products sold, and user purchase count, enabling targeted marketing strategies.
 
 **2. Customer Segmentation Analysis**
-Segmented customers based on the demographics data like age,gender,occupation and marital status
+Classified customers based on demographics such as age, gender, occupation, and marital status to personalize engagement and optimize product offerings.
 
 **3. Product Popularity Analysis**
-Analaysied propularity based on sales metric and categorised as Top 10 by age,,Top 50 likely product purchase.
+Ranked products by sales performance, identifying the Top 10 items for specific age groups and the Top 50 most likely to be purchased products.
 
-**5. Market Basket Analysis**
-
+**4. Market Basket Analysis**
+Leveraged purchase patterns to identify frequently bought-together products, optimizing cross-selling and upselling strategies.
 **5. Reorder Purchase Analysis**
-Calculated reorder purchase rate per product ID, product category
-**5.Price Sensitivity Analysis**
-**5. Average Purchase Value Analysis**
-**5. Customer Life Time Value**
+Measured reorder rates by product ID and category, helping identify consistent performers and products requiring stock level adjustments.
+**6.Price Sensitivity Analysis**
+Assessed customer response to price changes, optimizing pricing strategies to maximize revenue and retain price-sensitive customers.
+**7. Average Purchase Value Analysis**
+Calculated the average value of customer transactions to understand spending behavior and enhance promotional efforts.
+**8. Customer Life Time Value**
+Predicted long-term value of customers to prioritize retention strategies and boost profitability.
 
-
-
-![Demo Video](dashboard-demo.mp4)
 # Dataset Overview
 
 **Data Structure**
-### Item Features
 
-| **Feature**           | **Description**                                        |
-|-----------------------|--------------------------------------------------------|
-| **Item Identifier**    | Unique ID for each grocery item.                       |
-| **Item Type**          | Category of the grocery item (e.g., Dairy, Frozen Foods, Snacks). |
-| **Item Fat Content**   | Categorization based on fat content (e.g., Low Fat, Regular). |
-| **Item Weight**        | Weight of the item.                                    |
-| **Item Visibility**    | Display area percentage in-store.                      |
-| **Sales**              | Sales data for the item over a specific period.        |
-| **Rating**             | Customer rating or feedback score for the item.        |
-
-### Outlet Features
-
-| **Feature**              | **Description**                                          |
-|--------------------------|----------------------------------------------------------|
-| **Outlet Identifier**     | Unique ID for each store or outlet.                     |
-| **Outlet Establishment Year** | The year the outlet was founded.                    |
-| **Outlet Location Type**  | Type of location (Urban, Rural).                        |
-| **Outlet Size**           | Size of the outlet (Small, Medium, Large).              |
-| **Outlet Type**           | Type of outlet (e.g., Grocery Store, Supermarket).      |
-
-The dimesnions of Dataset is 8500X12
-
+<div align="center">
+  <img src="https://github.com/Sree191031/Walmart-Analysis-SQL---PowerBI/blob/main/Data%20Modeling.png" width="640" height="360" />
+</div>
 **Excutive Summary** 
 
-![Dashboard Image](https://github.com/Sree191031/Excel-Data-Analysis-Project/blob/main/Excel%20Project/Blinkit%20Dashboard.png)
+![Dashboard Image](https://github.com/Sree191031/Walmart-Analysis-SQL---PowerBI/blob/main/Gender%20Sales%20Analysis.png)
 
+![Dashboard Image](https://github.com/Sree191031/Walmart-Analysis-SQL---PowerBI/blob/main/Sales%20Dashboard.png)
+    
 
 brief summarisation conclude all the kpis
 
