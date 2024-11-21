@@ -38,16 +38,18 @@ Calculated the average value of customer transactions to understand spending beh
 **Data Structure**
 
 
-The dataset is sourced from Kaggle's e-Commerce (Walmart) Sales Dataset and consists of numerical data points, such as occupation and product categories, with values ranging between 0 and 20.
+- The dataset is sourced from Kaggle's e-Commerce (Walmart) Sales Dataset and consists of numerical data points, such as occupation and product categories, with values ranging between 0 and 20.
 
-A data model was designed in Power BI, showcasing relationships and key metrics, as illustrated in the shared diagram. 
+- Developed SQL Data Model for indepth understanding of each metrics.
+
+- A data model was designed in Power BI, showcasing relationships and key metrics, as illustrated in the shared diagram. 
 
 <div align="center">
   <img src="https://github.com/Sree191031/Walmart-Analysis-SQL---PowerBI/blob/main/Data%20Modeling.png" width="640" height="360" />
 </div>
 
 
-The dataset has dimensions of (10, 556,012). The data was read, loaded into SQL, and analyzed using the mentioned metrics to uncover patterns and derive actionable insights
+- The dataset has dimensions of (10, 556,012). The data was read, loaded into SQL, and analyzed using the mentioned metrics to uncover patterns and derive actionable insights
 
 ---
 ### Excutive Summary 
